@@ -33,11 +33,7 @@
 
 ### 🌱 Giving Back
 
-<!-- LATEST-PROJECT-LIST:START -->
-- [Code For Hope](#) - I am part of a minority students  journey as software engineers
 
-<!-- LATEST-PROJECT-LIST:END -->
----
 
 <details>
   <summary>:zap: About Me</summary>
