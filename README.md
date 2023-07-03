@@ -1,16 +1,55 @@
-### Hi there 👋
+# Hi there, I'm Abdiel Datre 👋 
 
-<!--
-**AbdielDM03/AbdielDM03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Front End Software Developer`**
 
-Here are some ideas to get you started:
+- 🚢 I’m currently working as a front end software developer at MetaLab Industries
+- 🏅 Here is a link to my [Developer Portfolio](https://abdieldm-portfolio.netlify.app/)
+- 🏋 I’m looking to join an extraordinary engineering team
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Languages and Tools
+
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"  />
+<br />
+<br />
+
+---
+### 🏅 Work Experience at MetaLab
+
+
+
+---
+
+### 🏆 Other Team Projects
+
+<!-- LATEST-PROJECT-LIST:START -->
+- [DM Roofing](https://dm-roofing.netlify.app/) - Roofing company website. 
+<!-- LATEST-PROJECT-LIST:END -->
+
+---
+
+### 🌱 Giving Back
+
+<!-- LATEST-PROJECT-LIST:START -->
+- [Code For Hope](#) - I am part of a minority students  journey as software engineers
+
+<!-- LATEST-PROJECT-LIST:END -->
+---
+
+<details>
+  <summary>:zap: About Me</summary>
+  
+<!--START_SECTION:activity-->
+<br />
+I am a creative, detail-oriented, software developer with a proven track record of creating front-end web applications. I am looking to bring my skills and experience to a tech company with global reach.
+
+1. 💻 Experienced software developer with a focus on:
+   - JavaScript
+   - Tailwind
+   - CSS
+   - HTML
+
+</details>
